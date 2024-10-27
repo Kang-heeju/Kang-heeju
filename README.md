@@ -1,5 +1,4 @@
-
-**Hi! My name is Heeju Kang 😎 **
+**Hi! My name is Heeju Kang 😎**
 
 I highly value collaborating with my coworkers to explore various solutions rather than settling on a single obvious answer.
 

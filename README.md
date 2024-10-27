@@ -1,6 +1,5 @@
-<div align="center">
 
-Hi! My name is Heeju Kang 😎  
+**Hi! My name is Heeju Kang 😎 **
 
 I highly value collaborating with my coworkers to explore various solutions rather than settling on a single obvious answer.
 
@@ -9,6 +8,10 @@ I firmly believe that sharing knowledge within the team is crucial for improving
 
 
 You can check my portfolio via [here](https://kang-heeju.github.io/docs/Kangheeju).
+
+
+
+<div align="center">
 
 ### Tech Stack 
 
@@ -29,8 +32,10 @@ You can check my portfolio via [here](https://kang-heeju.github.io/docs/Kangheej
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjkang0107)](https://solved.ac/hjkang0107)
 
 ### Contact
-<a href="www.linkedin.com/in/heeju-kang"><img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/heeju-kang"/></a>
-<a href=""><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/heeju-kang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sol031988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
 
 </div>
 

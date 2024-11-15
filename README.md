@@ -6,7 +6,7 @@ I firmly believe that sharing knowledge within the team is crucial for improving
 
 
 
-You can check my portfolio via [here](https://kang-heeju.github.io/docs/Kangheeju).
+You can check my portfolio via [here](https://kangheeju.notion.site/6e3156bc09484b65931fbd6d6eab7cff?pvs=4).
 
 
 

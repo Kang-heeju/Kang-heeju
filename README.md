@@ -1,11 +1,3 @@
-**Hi! My name is Heeju Kang 😎**
-
-I highly value collaborating with my coworkers to explore various solutions rather than settling on a single obvious answer.
-
-I firmly believe that sharing knowledge within the team is crucial for improving our service development. Whenever I grasp a new technology, I make sure to document it comprehensively and share it with my colleagues.
-
-
-
 You can check my portfolio via [here](https://kangheeju.notion.site/6e3156bc09484b65931fbd6d6eab7cff?pvs=4).
 
 
